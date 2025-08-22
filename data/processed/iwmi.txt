@@ -1,0 +1,2446 @@
+Working Paper
+Gender in Water and Sanitation 
+Provision and Responses to the 
+COVID-19 Pandemic in Rural Ghana 
+Everisto Mapedza, Dorcas Adewale, Richard Seyram, George Asare, Olufunke Cofie, 
+Josiane Nikiema, Solomie Gebrezgabher, Mary Njenga and Ruth Mendum
+213
+Working Papers
+The publications in this series record the work and thinking of IWMI researchers, and knowledge that the Institute’s scientific management feels is 
+worthy of documenting. This series will ensure that scientific data and other information gathered or prepared as a part of the research work of the 
+Institute are recorded and referenced. Working Papers could include project reports, case studies, conference or workshop proceedings, discussion 
+papers or reports on progress of research, country-specific research reports, monographs, etc. Working Papers may be copublished, by IWMI and 
+partner organizations. Although most of the reports are published by IWMI staff and their collaborators, we welcome contributions from others. Each 
+report is reviewed internally by IWMI staff. The reports are published and distributed both in hard copy and electronically (www.iwmi.org) and where 
+possible all data and analyses will be available as separate downloadable files. Reports may be copied freely and cited with due acknowledgment.
+About IWMI
+The International Water Management Institute (IWMI) is an international, research-for-development organization that works with governments, civil 
+society and the private sector to solve water problems in developing countries and scale up solutions. Through partnership, IWMI combines research 
+on the sustainable use of water and land resources, knowledge services and products with capacity strengthening, dialogue and policy analysis to 
+support implementation of water management solutions for agriculture, ecosystems, climate change and inclusive economic growth. Headquartered in 
+Colombo, Sri Lanka, IWMI is a CGIAR Research Center with offices in 15 countries and a global network of scientists operating in more than 55 countries.
+IWMI Working Paper 213
+Gender in Water and Sanitation Provision and 
+Responses to the COVID-19 Pandemic in Rural Ghana 
+International Water Management Institute (IWMI) 
+P. O. Box 2075, Colombo, Sri Lanka
+Everisto Mapedza, Dorcas Adewale, Richard Seyram, George Asare, Olufunke Cofie, 
+Josiane Nikiema, Solomie Gebrezgabher, Mary Njenga and Ruth Mendum
+The authors:  
+Everisto Mapedza, Senior Researcher – Social and Institutional Scientist, International Water Management Institute 
+(IWMI), Pretoria, South Africa 
+Dorcas Adewale, Research Consultant, Accra, Ghana 
+Richard Seyram, Former Intern, IWMI, Accra, Ghana; PhD Candidate, University of Ghana, Ghana
+George Asare, Data Consultant, GABS Research Consult Limited, Accra, Ghana
+2OXIXQNH&R΋HAfrica Director for Research Impact, IWMI, Accra, Ghana
+Josiane Nikiema, Former Research Group Leader - Water Pollution and Circular Economy, IWMI, Accra, Ghana; 
+Professor, École de technologie supérieure (ÉTS), Montreal, Quebec, Canada
+Solomie Gebrezgabher, Senior Researcher, IWMI, Accra, Ghana
+Mary Njenga, Bioenergy Research Scientist, Center for International Forestry Research and World Agroforestry (CIFOR-
+ICRAF), Nairobi, Kenya
+Ruth Mendum, Retired Associate Director for Gender Initiatives, Penn State College of Agricultural Sciences, USA; 
+Consultant, CIFOR-ICRAF, Nairobi, Kenya
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mapedza, E.; Adewale, D.; Seyram, R.; Asare, G.; Cofie, O.; Nikiema, J.; Gebrezgabher, S.; Njenga, M.; Mendum, R. 2025. 
+Gender in water and sanitation provision and responses to the COVID-19 pandemic in rural Ghana. Colombo, Sri Lanka: 
+International Water Management Institute (IWMI). 32p. (IWMI Working Paper 213). doi: https://doi.org/10.5337/2025.217 
+ 
+/ gender / water, sanitation and hygiene / COVID-19 / pandemics / rural communities / water demand / water use / food 
+insecurity / domestic water / social inclusion / women / men / youth / domestic violence / household surveys / Ghana /
+ISSN 2012-5763 
+e-ISSN 2478-1134 
+ISBN 978-92-9090-977-4
+Copyright © 2025, by IWMI. All rights reserved. IWMI encourages the use of its material provided that the organization is 
+acknowledged and kept informed in all such instances. The boundaries and names shown and the designations used on 
+maps do not imply official endorsement or acceptance by IWMI, CGIAR, our partner institutions, or donors. 
+Disclaimer: The research was conducted in 2021. The report was drafted in 2022 and finalized in 2025. Citations have not 
+been updated to the actual publication date. 
+Please send inquiries and comments to IWMI-Publications@cgiar.org 
+A free copy of this publication can be downloaded at: https://www.iwmi.org/publications/iwmi-working-papers/ 
+IWMI - iii
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Acknowledgments
+The authors would like to acknowledge the households within Ga South District in the Greater Accra Metropolitan Area 
+who accepted to respond to the questionnaire during the challenging time of the COVID-19 pandemic. The community 
+members who participated in the focus group discussions within Ga South District are also acknowledged. The officials 
+from Ga South District who participated in the key informant interviews and provided useful information on the district 
+are thanked. The data collection team comprised of Kubi David, Prince Mensah, Dora Asante, Sophia Koryoe Sangmortey, 
+Gloria Asante, Sampson Baaye, Samuel Asante and Margaret Esaah Boakye. Martin Ofori provided logistical support 
+during both the questionnaire survey and the qualitative field data collection. Thank you to all those who played a part 
+but were not mentioned by name.
+Project
+This study was undertaken as part of the SDG Support for Food Security and Water Resources project implemented by 
+the International Water Management Institute (IWMI). IWMI has been involved in many aspects of the development and 
+implementation of the United Nations Sustainable Development Goal (SDG) indicators.
+ 
+Donors
+ 
+ 
+ 
+ 
+ 
+ 
+This study received funding from the CGIAR Research Program on Water,  
+ 
+Land and Ecosystems (WLE) (2012-2021), and a complementary study   
+ 
+component was funded by the Netherlands Embassy in Accra, Ghana.
+ 
+ 
+The publication of this working paper was co-funded by the CGIAR Gender  
+ 
+Equality and Inclusion Accelerator, which is grateful for the support of the  
+ 
+CGIAR Trust Fund contributors (www.cgiar.org/funders).
+IWMI - v
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Contents
+List of Tables 
+ 
+vi
+List of Figures 
+ 
+vi
+Summary  
+ 
+vii
+Introduction 
+ 
+1
+ 
+Pressures and Drivers for Water Demand and Consumption 
+1
+ 
+Gender in Water and Sanitation in COVID-19 Context: Why It Matters? 
+1
+Study Area  
+ 
+2
+Research Methodology 
+3
+ 
+Ethics  
+ 
+3
+ 
+Limitations of the Study 
+3
+Research Findings 
+4
+ 
+Gender Composition of Respondents 
+4
+ 
+Household Size Distribution by Gender 
+4
+ 
+Respondents’ Marital Status 
+5
+ 
+Religious Affiliation of Respondents 
+6
+ 
+Educational Level of Respondents 
+6
+ 
+Length of Stay in Study Area 
+7
+ 
+Knowledge of COVID-19 
+8
+ 
+Domestic Violence 
+9
+ 
+Gendered COVID-19 Impacts 
+10
+ 
+COVID-19 and Impact on Study Area 
+11
+ 
+Measures Taken for Protection Against COVID-19 
+12
+ 
+Geography of the COVID-19 Victims 
+12
+ 
+Domestic Water Access for Surveyed Households 
+13
+ 
+Access to Drinking Water 
+13
+ 
+Source of Water for Handwashing during COVID-19 
+14
+ 
+Who Collects Water? 
+15
+ 
+Duration of Water Collection 
+16
+ 
+Access to Sanitation 
+17
+ 
+COVID-19 and Food Security 
+18
+ 
+Financial Coping Mechanisms 
+19
+ 
+Receipt of Remittance from Household Member during COVID-19 
+19
+Discussion  
+ 
+20
+Conclusion  
+ 
+21
+References  
+ 
+22
+IWMI - vi
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+List of Tables
+Table 1. Summary of qualitative data collection approaches. 
+3
+Table 2. Gender composition of the household questionnaire respondents. 
+5
+Table 3. Gender composition of the household questionnaire respondents. 
+8
+Table 4. Noticed effects of covid-19 on domestic violence. 
+12
+Table 5. Types of domestic violence experienced. 
+12
+List of Figures
+Figure 1. Study location within ghana. 
+2
+Figure 2. Distribution of respondents by age and sex of household head. 
+5
+Figure 3. Household size distribution by gender of household head. 
+6
+Figure 4. Marital status of respondents by gender of household head. 
+7
+Figure 5. Main religion practiced in the household. 
+7
+Figure 6. The highest level of education attained by sex of the head of the household. 
+8
+Figure 7. The number of years the household has stayed in the community. 
+9
+Figure 8. Knowledge of early covid-19 symptoms. 
+10
+Figure 9. Proportion of respondents who know people who had contracted covid-19. 
+11
+Figure 10. Impact of covid-19 on women. 
+13
+Figure 11. Impact of covid-19 on men. 
+14
+Figure 12. Limited opportunities from covid-19 by gender of the household head. 
+15
+Figure 13. Measures to stay safe from covid-19. 
+16
+Figure 14. Location of covid-19 patients by sex of the head of household respondents. 
+17
+Figure 15. The main source of drinking water disaggregated by sex of the household head. 
+19
+Figure 16. Place where handwashing water was collected from before covid-19. 
+20
+Figure 17. Main source of handwashing water after covid-19 by sex of the household head. 
+21
+Figure 18. Person who collected water in the household before covid-19 by household headship. 
+22
+Figure 19. Duration of water collection during covid-19. 
+23
+Figure 20. Availability of toilet facilities in the household. 
+24
+Figure 21. Frequency of skipping meals. 
+25
+Figure 22. Household members who skip meals when there is food shortage. 
+26
+Figure 23. Sources of borrowing in the last 2 years. 
+27
+Figure 24. Receipt of remittances. 
+27
+IWMI - vii
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Summary 
+This study assessed the pressures, drivers and responses 
+to the COVID-19 pandemic in rural Ghana in terms 
+of gendered demand and consumption of water and 
+sanitation. The research question was how the COVID-19 
+outbreak has affected water demand and sanitation, 
+with a special focus on social inclusion and gender. 
+Data collection was conducted through a household 
+questionnaire survey of 146 households in Ga South 
+District in the Greater Accra Metropolitan Area. The 
+study area was selected as a rural area within the Greater 
+Accra Metropolitan Area. A complementary qualitative 
+study was conducted by a male and a female facilitation 
+team using Focus Group Discussions disaggregated by 
+women, men, youths and mixed groups. Key informant 
+interviews were also conducted with both male and 
+female respondents. 
+The main findings of the study are as follows: 
+COVID-19 impacts are gendered. Women, men, youths 
+and children are differentially affected by COVID-19 
+within the study site. For instance, women and girls have 
+a greater burden of collecting additional water, school-
+going children are deprived of their education and men 
+are staying at home, increasing the risk of domestic 
+violence. Government statistics noted that there was a 
+7% increase in domestic violence in areas placed under 
+lockdown. School-going girl children were at a greater risk 
+of pregnancy in light of increased teenage pregnancy rates 
+in Ghana during COVID-19. Youths without employment 
+or schooling opportunities in the COVID-19 period also 
+experimented with alcohol due to the myth that it kills the 
+COVID-19 virus. 
+Government's Free Water Initiative response has further 
+marginalized rural citizens. The government of Ghana 
+has rightly intervened with a Free Water Initiative as a 
+mechanism to facilitate free access to water and avoid 
+the risk of spreading COVID-19 within urban areas. Rural 
+areas did not benefit from such government support. Rural 
+households continued to pay the volume-based charges 
+collected by the Water User Committee which uses the 
+funds as a fund for repairing the boreholes when they 
+break down. As a result, the initiative did not benefit the 
+urban poor as well as rural households. 
+Women and girls' water collection burden has been 
+worsened. COVID-19 entailed a requirement for increased 
+use of water for handwashing and other hygienic purposes. 
+Across all households, water points were away from the 
+household compounds. Women and girls were spending 
+more time collecting water for domestic uses beyond their 
+compound. Childcare roles also increased, especially 
+when schools were closed. The limited housing space 
+and low levels of education for most rural parents made 
+homeschooling even more difficult. Children-specific 
+participatory studies led by a rapporteur on children's rights 
+showed how low-income neighborhoods struggled in Ghana 
+to access meaningful education during the lockdowns.
+Stigma still exists for COVID-19. While there was very 
+high knowledge of COVID-19, its signs and symptoms, 
+both male (52%) and female (58%) respondents noted 
+that they would be hesitant to interact with a person who 
+had recovered from COVID-19. This highlights the stigma 
+that the Government of Ghana and other stakeholders 
+such as WHO have been campaigning against. This also 
+meant that some people did not disclose their COVID-19 
+status. However, male respondents (11%) said they knew 
+people who were infected, with none of the women being 
+aware of anyone infected with COVID-19 within their own 
+community.
+Loss of income has worsened food insecurity in poor 
+urban areas. Most of the informal opportunities were 
+affected by the lockdown and the general decline in 
+business as people were spending less. The study area 
+largely depended on informal employment which was 
+negatively affected by the pandemic resulting in food 
+insecurity. Food shortage had a gendered dimension, 
+with women forgoing food consumption when there was 
+a shortage, as compared to men. Domestic violence was 
+noted by about 13% of the respondents to have gone up as 
+a result of COVID-19, especially with the loss of economic 
+opportunities.
+IWMI - 1
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Gender in Water and Sanitation Provision and 
+Responses to the COVID-19 Pandemic in Rural Ghana 
+(YHULVWR0DSHG]D'RUFDV$GHZDOH5LFKDUG6H\UDP*HRUJH$VDUH2OXIXQNH&R΋H
+Josiane Nikiema, Solomie Gebrezgabher, Mary Njenga and Ruth Mendum
+Introduction
+This research assessed the pressures, drivers and 
+responses to the COVID-19 pandemic in rural Ghana in 
+terms of gendered demand and consumption of water, 
+and sanitation. The research was based on literature,  
+a field questionnaire survey, Focus Group Discussions  
+and Key Informant Interviews.
+Pressures and Drivers for Water Demand 
+and Consumption
+Population increase is one of the main drivers for increased 
+demand for water and sanitation services. The global 
+population, projected to be 8.6 billion by 2030 and 
+increase to 9.8 billion in 2050, had reached 7.6 billion 
+people as of June 2017 (UN DESA 2017). Africa and Asia 
+are experiencing rapid urbanization and it is one of the 
+main challenges for providing adequate services in urban 
+areas (Awumbila 2017). In Ghana, Awumbila et al. (2014) 
+note that there is an interlinkage between migration, 
+urbanization and poverty. The lack of proper infrastructure 
+in some poorer neighborhoods is partly attributed to the 
+rural-urban migration by the poor (Awumbila et al. 2014).
+Urbanization has further compounded the population 
+pressures, especially for urban areas such as Accra. 
+Migration from rural areas and from the West Africa region 
+has seen the population of Accra increasing. According 
+to the Ghana Statistical Services (GSS), 50.9% of Ghana’s 
+population now resides in urban areas. Most people in the 
+colonial and postcolonial period perceived urban areas 
+as offering greater economic opportunities and better 
+infrastructure such as water and sanitation (GSS 2014). 
+Ghana only uses about 1% of its freshwater resources, but 
+pollution from illegal mining and agricultural activities is 
+impacting its water resources (Yeleliere et al. 2018). Water 
+scarcity could be attributed to economic or physical water 
+scarcity (Molden 2007). While there is need to ensure 
+water quality in Ghana, for now the main challenge is 
+economic water scarcity, where financial resources are 
+critical for providing adequate water and sanitation in 
+Accra, and Ghana at large.
+Gender in Water and Sanitation in 
+COVID-19 Context: Why It Matters?
+Global initiatives such as the Sustainable Development 
+Goals (SDGs) — especially SDG 5 — addresses gender. 
+The advent of COVID-19 has the potential of destroying 
+some of the gender gains which had been made before 
+the beginning of COVID-19. The focus of the study was 
+the Ga South District, a rural district within the Greater 
+Accra Metropolitan Area (GAMA). Water and sanitation 
+are genuine developmental concerns for Ghana, further 
+magnified with the advent of COVID-19 (Connell 2020; 
+Corburn et al. 2020; Duti 2020; Morgan 2020; Rutayisire et 
+al. 2020; Saba 2020; UN Women 2020).
+Ghana has acceded to international gender conventions, 
+such as the Convention on the Elimination of All Forms 
+of Discrimination against Women (CEDAW). Since 
+Independence there have been Constitutional policy 
+pronouncements, legislation and strategies to address the 
+gender imbalance. 
+While there are progressive laws and policies in place, 
+translating these into the lived experiences of the women 
+remains a major challenge. An understanding of gender, 
+especially access and control, from literature helped 
+to inform the questions that were being asked in our 
+questionnaire, qualitative group discussions and other 
+data collected. The data collected was disaggregated 
+according to sex, so the gender analysis could be 
+conducted; as Doss notes, collecting sex disaggregated 
+data is the first step towards collecting gender data 
+(Doss 2013). When questions such as ‘why’ are asked, we 
+begin to appreciate the importance of gender analysis 
+as it underscores the reasons behind the unequal power 
+dynamics between men and women.
+IWMI - 2
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+Figure 1. Study location within Ghana.
+Source: Map drawn by Komlavi Akpoti, IWMI, Ghana.
+Study Area 
+The study was conducted in Ga South District which is 
+part of the Greater Accra Metropolitan Area. It built on the 
+Dutch Embassy funded urban study which helped develop 
+the research instruments. These research instruments 
+were further refined to accommodate the rural context 
+and also added questions pertaining to domestic violence. 
+The rationale for the selection of Ga South District was 
+in-formed by it being a rural area in order to observe the 
+impacts of COVID-19 within the rural context. The study 
+was conducted in two adjacent communities, namely 
+Obom and Obokwashie as shown in Figure 1.
+IWMI - 3
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Research Methodology
+1 See Annex 1 for the questionnaire survey instrument that was used.
+2 UNICEF: https://agora.unicef.org/course/info.php?id=2173
+The research methodology entailed the use of a mixed 
+methods approach (Castro et al. 2010; Creswell et al. 
+2003; Galasiński and Kozłowska 2010; Morse et al. 2006; 
+Plano Clark et al. 2008; Tashakkori and Teddlie 2010).  
+Data collection was carried out in 2021, during the 
+COVID-19 pandemic. First, a questionnaire survey was 
+conducted among the 146 households. The questionnaire 
+enumeration team comprised of four men and women 
+each. The questionnaire was based on modules 
+focussing on basic household information, household 
+assets, knowledge of COVID-19, water and sanitation, 
+handwashing, sources of income, food security and 
+wellbeing.1 Most modules captured gender dimensions 
+of the responses and collecting the pre-COVID-19 and 
+COVID-19 era responses to better understand how the 
+pandemic has differentially impacted the study community. 
+One respondent (either male or female) was interviewed 
+per household.
+Second, 16 Focus Group Discussions were conducted 
+with women, men, youths and mixed groups (refer to 
+Table 1). These were led by a woman facilitator, who was 
+supported by a man. The objective of the discussions was 
+to ensure that the study validates the findings coming 
+from the household questionnaire survey and also capture 
+the differential interests among women, men and youths 
+which were then moderated in the mixed group discussions 
+to further validate the findings. Mixed groups were 
+facilitated to discuss issues raised by the different groups 
+and validation and cross learning. In line with COVID-19 
+protocols, the maximum number of participants was 
+six. For the mixed groups, these comprised of two adult 
+women, two adult men and two youths. 
+Third, 6 Key Informant Interviews were also conducted with 
+district and other institutional researchers with knowledge 
+of the study areas and water and sanitation issues. The key 
+informants also included chiefs and district officials.
+Table 1. Summary of qualitative data collection approaches.
+Community 
+FGDs 
+Life histories 
+Key informant interview
+Obom 
+8 
+6 
+3
+Obokwashie 
+8 
+6 
+3
+Total 
+16 
+12 
+6
+Fourth, in order to capture the lived experiences within 
+the study area, 12 Life Histories were conducted. Life 
+History respondents included women and men from 
+different social strata and age groups as well as people 
+living with disabilities. Life histories were meant to 
+complement the Key Informant Interviews, which tend to 
+focus on the institutional perspectives as opposed to the 
+lived experiences of those bereft of senior positions in a 
+community (Leahy 2021; Lokot 2021; Osella and Osella 
+2000; Werner 2017). 
+Literature review was conducted on COVID-19 journal and 
+programme and project reports and websites. This was 
+an important source of information and general trends. 
+Webinars were also important for accessing up-to-date 
+information on the rapidly unfolding pandemic. 
+Ethics
+Prior to beginning the field data collection, ethics forms were 
+filled in for all the project components. The ethics forms also 
+considered that the data collection was being conducted 
+during the outbreak of COVID-19. Therefore, measures were 
+put in place to ensure that both field enumerators and the 
+household, as well as focus group respondents, followed 
+the COVID-19 protocols recommended by the Government 
+of Ghana and the World Health Organization. The ethics 
+application was made to the IWMI Internal Review Board (IRB) 
+who reviewed the submission. The IRB recommendations 
+were diligently followed in the conduct of the study. All field 
+enumerators and Focus Group Facilitators had to pass the 
+UNICEF online course on Ethics.2
+Limitations of the Study
+The study did not include counterfactuals. The research 
+team felt the insights from the questionnaire survey within 
+the COVID-19 data collection restrictions to be important 
+and relevant findings. The study also made use of insights 
+from the Focus Group Discussions, which might not be 
+statistically significant, but are significant for social science 
+studies and need to be reflected in the report findings. For 
+the medical waste management, the findings are based on 
+Key Informant Interviews, and we believe that they reflect 
+the issues affecting medical waste during the COVID-19 
+era. The study could not conduct many Key Informant 
+Interviews due to most institutions being partially closed.
+IWMI - 4
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+Research Findings 
+The following sections provide highlights from the research 
+studies according to the different thematic topics.
+Gender Composition of Respondents
+The rural household survey interviewed 146 respondents 
+comprising of 85 (58.2%) women and 61 (41.8%) men as 
+shown in Table 2.
+About 3 out of every 10 respondents (29.8%) were 
+aged 26–35 years, followed by about one in every four 
+respondents (25.9%) who were aged 18–25 years. The 
+least proportion of respondents (7.8%) came from 
+those who were aged above 60 years. The proportion 
+of respondents from female-headed households 
+were relatively higher than those from male-headed 
+households headed by men among respondents aged 
+26–35 years, 18–25 years, and above 60 years: 32.2%, 
+27.1% and 11.9%, compared to 28.8%, 25.3%, and 6.2% 
+respectively. For the 36–45 age group, the proportion 
+of respondents from female-headed households 
+comprised about 12%, with respondents from male-
+headed households comprising nearly double the figure 
+(about 22%) as shown in Figure 2. 
+Figure 2. Distribution of respondents by age and sex of household head.
+25.3
+28.8
+21.9
+17.8
+6.2
+27.1
+32.2
+11.9
+16.9
+11.9
+25.9
+29.8
+19
+17.6
+7.8
+0
+5
+10
+15
+20
+25
+30
+35
+18-25
+26-35
+36-45
+46-60
+Above 60
+Percentage (%)
+Age
+Male
+Female
+All
+Household Size Distribution by Gender
+A greater proportion of households had about 4 to 5 
+members (44.4%) followed by those with about 2 to 
+3 members (31.2%). Both male- and female-headed 
+households which were single-person households 
+constituted about 8% of the sample. On the other hand, 
+a higher proportion of the male-headed households 
+(17.8%) had 6 to 9 members compared to female-headed 
+households (11.9%) and 16.1% for the overall. This was 
+different for urban areas where single-male respondents 
+were 30% compared to 11% for women as shown in 
+Figure 3. The study area is closer to Accra, hence a 
+number of youths were likely to be migrating, mainly to 
+Accra’s Dubai3 area. A better understanding of household 
+composition has implications on water requirements and 
+the burden for water collection.
+About 44% of all households had a family size comprising 
+4 to 5 family members.  
+3 This is an area near the Kwame Nkrumah Interchange where most informal traders would migrate to. The name Dubai was first used by former 
+President Mahama, when he inaugurated the interchange and declared that he had brought Dubai to Accra.
+Table 2. Gender composition of the household questionnaire respondents. 
+Gender of target respondent  
+Number  
+Percentage 
+Male  
+61  
+41.8 
+ 
+Female  
+85  
+58.2 
+ 
+Total  
+146 
+ 100 
+IWMI - 5
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Respondents’ Marital Status
+The monogamous married respondents were about 58% of 
+the household questionnaire respondents. Polygamously 
+married respondents comprised just above 1%, as shown 
+in Figure 4. The proportion of the those who had never 
+married was about 22% — about 34% for respondents 
+in female-headed households and 17% for male-headed 
+households. Widowed respondents made up 7% of the 
+respondents with widows (women) comprising about 24% 
+and widowers (men) below 1%. About 6% were living in 
+informal consensual unions, and the divorced comprised 
+about 3.4%. It is significant to note the nature of the 
+marital status as it could determine access to resources 
+and assets and how a household could respond to 
+pandemics such as COVID-19 is key in this study.
+Figure 3. Household size distribution by gender of household head.
+8.2
+28.8
+45.2
+17.8
+8.5
+37.3
+42.4
+11.9
+8.3
+31.2
+44.4
+16.1
+0
+10
+20
+30
+40
+50
+1
+2-3
+4-5
+6-9
+Percentage (%)
+Household size
+Male
+Female
+All
+Figure 4. Marital status of respondents by gender of household head.
+17.1
+72.6
+1.4
+0.7
+0.7
+6.8
+0.7
+0
+33.9
+22
+0
+10.2
+3.4
+3.4
+23.7
+3.4
+22
+58
+1
+3.4
+1.5
+5.9
+7.3
+1
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Percentage (%)
+Marital status
+Male
+Female
+All
+Single (Never
+married)
+Married
+(monogamous)
+Married
+(polygamous)
+Divorced
+Separated
+Informal/
+consensual 
+union/living 
+together
+Widowed
+Other
+IWMI - 6
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+Educational Level of Respondents
+Education is a key attribute, basis gender as well as 
+access to water and sanitation. More respondents from 
+female-headed households, about 35.3%, had no formal 
+education compared to about 13% of the respondents in 
+male-headed households (see Table 3).
+The study also accounted for the level of education that 
+respondents had attained. Over half (52.6%) from female-
+headed households had completed Junior Secondary 
+School compared to a little over 40% of the respondents 
+from male-headed households. The average for primary 
+school level education was about 18.2%, with respondents 
+from female-headed households making up about 10.5% 
+and those from male-headed households comprising 
+about 20.5% as shown in Figure 6. 
+Figure 5. Main religion practiced in the household.
+93.2
+4.8
+0
+2.1
+91.5
+6.8
+1.7
+0
+92.7
+5.4
+0.5
+1.5
+0
+20
+40
+60
+80
+100
+Christianity
+Islam
+Traditional
+Other
+Percentage (%)
+Religion
+Male
+Female
+All
+Table 3. Gender composition of the household questionnaire respondents.
+Formal education? 
+ 
+Male 
+ 
+ 
+Female 
+ 
+ 
+All
+ 
+N 
+ 
+% 
+N 
+ 
+% 
+N 
+ 
+%
+No 
+8 
+ 
+13 
+30 
+ 
+35.3 
+38 
+ 
+26
+Yes 
+53 
+ 
+87 
+55 
+ 
+64.7 
+108 
+ 
+74
+Total 
+61 
+ 
+100 
+85 
+ 
+100 
+146 
+ 
+100
+5HOLJLRXV$ΉOLDWLRQRI5HVSRQGHQWV
+The study area mainly comprised of Christians who 
+constituted over 92%, with Muslims being about 5.4% 
+as shown in Figure 5. Religion may influence norms and 
+practices important for the gendered relationships.
+IWMI - 7
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Length of Stay in Study Area
+The surveyed households had a wide range of length of 
+stay. Most respondents had stayed for over 5 years in 
+the study areas, with respondents from female-headed 
+households having a slightly higher representation in the  
+1 to 5 years category at about 31% as compared to 28% for 
+those in male-headed households as shown in Figure 7.  
+Key Informant Interviews with respondents such as the 
+Chief indicated that there are also long-term residents; 
+about 18% of the respondents have lived in the area for 
+over 30 years, and were nearly evenly distributed between 
+male- and female-headed households. The fact that this is 
+a well-established resident population entails the need for 
+further studies to try and better understand why the levels 
+of access to water, and in particular sanitation, was low.
+Figure 6. The highest level of education attained by sex of the head of the household. 
+Notes: HND - Higher National Diploma; SSS - Senior Secondary School; SHS - Senior High School; O/A level - Ordinary/Advanced level; JSS - Junior 
+Secondary School; JHS - Junior High School. 
+Figure 7. The number of years the household has stayed in the community.
+11.8
+20.5
+43.3
+3.1
+13.4
+3.1
+0.8
+1.6
+2.4
+13.2
+10.5
+52.6
+0
+13.2
+7.9
+0
+2.6
+0
+12.1
+18.2
+45.5
+2.4
+13.3
+4.2
+0.6
+1.8
+1.8
+0
+10
+20
+30
+40
+50
+60
+Nursery
+Primary
+   JSS/JHS/Middle (old system)
+ O/A level
+ SSS/SHS
+Vocational/Technical/Professional school/
+Training college and Karonic
+HND
+Bachelor's
+Nonformal education
+Percentage (%)
+Highest Educational level
+All
+Female
+Male
+28.1
+15.1
+12.3
+8.2
+8.2
+10.3
+4.8
+13
+30.5
+22
+11.9
+5.1
+0
+11.9
+3.4
+15.3
+28.8
+17.1
+12.2
+7.3
+5.9
+10.7
+4.4
+13.7
+0
+5
+10
+15
+20
+25
+30
+35
+1-5
+6-10
+11-15
+16-20
+21-25
+26-30
+31-35
+Over 35
+Percentage (%)
+Years
+Male
+Female
+All
+IWMI - 8
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+Knowledge of COVID-19
+There was a high level of awareness of COVID-19 
+symptoms among the respondents, especially with 
+identifying coughing at 82% as the main symptom for 
+both women and men as shown in Figure 8. The other 
+symptoms identified by respondents included high body 
+temperature (55.1%) and sneezing (41.0%). About 11% 
+of respondents from male-headed households and 6.8% 
+of the respondents from female-headed households 
+indicated no knowledge of COVID-19 symptoms. This was 
+more than three times greater than the number from the 
+urban areas. The responses cited below from a woman 
+and man who took part in the Focus Group Discussions 
+highlight their awareness:
+“…as for the disease, we have heard a whole lot about 
+it, and we are told to always put on the nose mask. For 
+me, whenever I am going to Accra is when I put on the 
+mask. We also hear that it is killing a lot of people…” 
+(Respondent 1, Female, Twi FGD, Women, Onibie).
+“… COVID-19 is a disease that has come to this whole 
+world that is transmitted from one person to another. It is 
+airborne so once you get closer to an infected person you 
+get it too. Dirt can also make you contract the disease…” 
+(Respondent 2, Male, OBOM, Youth, FGD 1).
+Figure 8. Knowledge of early COVID-19 symptoms.
+80.8
+40.4
+54.1
+11.0
+21.2
+11.0
+88.1
+42.4
+57.6
+15.3
+27.1
+6.8
+82.9
+41.0
+55.1
+12.2
+22.9
+9.8
+0
+20
+40
+60
+80
+100
+Coughing
+Sneezing
+High body
+temperature
+Sore throat
+Other
+No idea
+Percentage of cases (%)
+Early symptoms
+Male
+Female
+All
+While the knowledge of COVID-19 was high among the 
+respondents, there was also the perception that it was 
+more so affecting urban areas (such as Accra). The women 
+respondent cited above says: “…for me, whenever I am 
+going to Accra is when I put on the mask.” The responses 
+on the perception towards nose mask wearing were 
+similar for both women and men. This further aligns with 
+global research findings (Howard 2021).
+One respondent explained that they put on a mask when 
+they go out and not at home because there is no COVID-19 
+in their households.
+The youths were noted to have better access to 
+information on COVID-19. However, discussions with the 
+Youth Focus Group Discussions it was pointed out that 
+that knowledge is further disaggregated, with boys having 
+greater information access than girls.
+“… we boys usually do a lot of outing than the grownups 
+and we are the ones that usually use android phones so all 
+the time we see updates…” (Respondent 3, Male, Obom, 
+Youth FGD, 1).
+“…okay, the boys are into ‘Okada;’ business (motor-riding 
+business) so it’s understandable more boys can afford 
+smart phones. As for we, the ladies, if we don’t work, we 
+cannot afford smart phones…” (Respondent 4, Female, 
+Obokwashie, Youth).
+Nuanced and differential access to information was 
+reported to be a factor of the gender roles in domestic 
+and reproductive labor. The quotations from women and 
+youth Focus Group Discussions highlight such information 
+asymmetry.
+“… from my point of view, some men wake up and 
+leave the house to go to town leaving the women at 
+home working. So, when information comes since he 
+is outside, he would hear it first and later inform you 
+when he gets home.” (Respondent 5, Female, Obom, 
+FGD, Women 2).
+IWMI - 9
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+“…like they said men usually chat among themselves, but 
+women hardly do that. We women are always busy at home 
+working so I would not have the time to call a friend to chat 
+with…” (Respondent 6, Female, Obom, Youth, FGD 1).
+Few people (3.4%) knew someone who had contracted 
+COVID-19. Of this, those from male-headed households 
+were 2.1%, with respondents from female-headed 
+households comprising 6.8% as shown in Figure 9.
+Notably, there was stigma against those who had 
+contracted COVID-19. About two-thirds of the 
+respondents from male-headed households indicated 
+that they would stay away from a person who had 
+recovered from COVID-19 as compared to about half of 
+those from female-headed households. The proportion 
+of respondents from female-headed households who 
+would stay away from people who have recovered from 
+the disease was 10 percentage points lower than that of 
+those from male-headed households. Nevertheless, the 
+majority of the respondents stigmatize persons infected 
+with COVID-19. This could also contribute to most 
+patients not informing their neighbors once they know 
+they have contracted COVID-19.
+Figure 9. Proportion of respondents who know people who had contracted COVID-19.
+2.1
+6.8
+3.4
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Male
+Female
+All
+Percentage (%)
+Gender of head
+Domestic Violence
+The study sought to understand the impact of COVID-19 
+on domestic violence. Table 4 lists the results from the 
+questionnaire survey. About 13% of the respondents felt 
+that COVID-19 was contributing to domestic violence.
+The questionnaire survey offered potential reasons 
+for the increased domestic violence. Men identified 
+family altercations as a result of financial hardship 
+and verbal abuse between husband and wife as the 
+main forms of domestic abuse. Women, on the other 
+hand, identified general emotional and physical 
+abuse, at 50% and financial altercations due to 
+financial hardship at about 33% as the main two 
+highest forms of domestic violence. Table 5 shows 
+some more forms of domestic violence identified by 
+respondents.
+Table 4. Noticed effects of COVID-19 on domestic violence.
+Response 
+Male 
+Female 
+All
+Yes 
+13 
+11.9 
+12.7
+No 
+87 
+88.1 
+87.3
+Total 
+100 
+100 
+100
+IWMI - 10
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+Table 5. Types of domestic violence experienced.
+No. Response 
+Male 
+Female 
+All
+1. 
+Family altercations due to financial hardship 
+40 
+33.3 
+38.1
+2. 
+General emotional and physical abuse 
+6.7 
+50 
+19
+3. 
+Men become violent/abuse women and children due to financial stress 
+6.7 
+16.7 
+9.5
+4. 
+Verbal abuse on wife or husband 
+40 
+0 
+28.6
+5. 
+Fear/psychological trauma of being abused 
+6.7 
+0 
+4.8
+6. 
+Total 
+100 
+100 
+100
+Gendered COVID-19 Impacts
+This section illustrates a few highlights of the gendered 
+impacts of COVID-19.
+Impact on women and men
+The adverse effects of the COVID-19 pandemic on 
+women manifested through the loss of income (35.1%), 
+decline in business / trading activities (32.8%), 
+restrictions in movement / general human activities 
+(14.9%) and loss of jobs (14.2%), whereas job losses 
+(37.3%), loss of income (31%) and decline in business 
+activities (15.9%) were the main impacts of the 
+COVID-19 pandemic on men (see Figures 10 and 11). 
+Loss of income (39.6%) among women in male-headed 
+households coupled with decline in business activities 
+(31.3%) were the main effects of COVID-19 on women. 
+Decline in business activities (36.8%), loss of income 
+(23.7%) and loss of jobs (21.1%) were cited as the main 
+effects of COVID-19 on women among female-headed 
+households (see Figure 10).
+Figure 10. Impact of COVID-19 on women.
+31.3
+11.5
+15.6
+39.6
+2.1
+0
+36.8
+21.1
+13.2
+23.7
+2.6
+2.6
+32.8
+14.2
+14.9
+35.1
+2.2
+0.7
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Decline in businesses/trading activities
+Loss of jobs/no employment
+Restrictions in movement/general
+human activities
+Financial challenges/loss of income
+Fear of COVID-19 infection
+Domestic and emotional abuse
+Percentage (%)
+Covid-19 eﬀects
+All
+Female
+Male
+The main adverse effects of the COVID-19 pandemic on 
+men included loss of job (37.3%), loss of income (31%), 
+and decline in business activities (15.9%). Men in male-
+headed households were the most affected as 38.5% and 
+35.2% cited loss of employment and loss of income from 
+the COVID-19 pandemic. Of the men in female-headed 
+households, 34.3% lost their jobs and 20% recorded loss 
+of income (see Figure 11).
+IWMI - 11
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Teenage pregnancies
+School-going children were affected by school closure. 
+Significantly, about 10% of the girls were further disrupted 
+due to teenage pregnancies. It was interesting to note that 
+teenage pregnancies were more pronounced in female-
+headed households at about 21% compared to male-
+headed households where the rate was 5%. This further 
+reinforces the importance of using a gender lens when 
+providing solutions to the gendered and intersectional 
+impact of COVID-19. 
+ 
+ 
+ 
+Figure 11. Impact of COVID-19 on men.
+15.4
+38.5
+1.1
+6.6
+35.2
+2.2
+1.1
+0
+0
+17.1
+34.3
+2.9
+8.6
+20
+5.7
+0
+8.6
+2.9
+15.9
+37.3
+1.6
+7.1
+31
+3.2
+0.8
+2.4
+0.8
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Decline in businesses/trading activities
+Loss of jobs/no employment
+Loss of lives
+Restrictions in movement/general human activities
+Financial challenges/loss of income
+Fear of COVID-19 infection
+Increase in alcohol intake with the belief that
+it cures COVID-19
+Fear of male impotence/erectile dysfunction
+Domestic and emotional abuse
+Percentage (%)
+Covid-19 eﬀects
+All
+Female
+Male
+COVID-19 and Impact on Study Area
+It was very clear from both the quantitative and 
+qualitative research findings that COVID-19 had negative 
+consequences in the communities. The respondents 
+reported that COVID-19 drastically reduced employment 
+opportunities but also noted that it had brought a few 
+opportunities according to about 16% of the male 
+respondents and 10% of the female respondents. A few 
+people noted that they have started producing and selling 
+face masks and other protective equipment (Figure 12).
+Figure 12. Limited opportunities from COVID-19 by gender of the household head. 
+Notes:PPE - Personal protective equipment; NGO - Nongovernmental organization.
+Employment 
+through the 
+sales of PPEs
+Encouraged 
+cleanliness 
+and tidiness
+Family bonding 
+because of 
+movement 
+restrictions
+Packages for 
+frontline 
+workers/support 
+from NGOs
+Increase in 
+health sector 
+employment/
+general 
+employment
+66.7
+11.1
+5.6
+11.1
+5.6
+50
+25
+25
+0
+0
+63.6
+13.6
+9.1
+9.1
+4.5
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Percentage (%)
+Opportunities
+Male
+Female
+All
+IWMI - 12
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+Measures Taken for Protection Against 
+COVID-19
+The respondents articulated the main measures to 
+be taken to protect themselves from the spread of 
+COVID-19. The response measures included the use of 
+nose mask when going out (85.9%), frequent washing 
+of hands (76.1%), use of alcohol-based hand sanitizers 
+in the absence of handwashing (68.8%) and practicing 
+social distancing (46.8%) among others. A few of 
+the respondents (2%) noted a lack of knowledge on 
+preventative measures against COVID-19 (see Figure 13).
+One of the possible reasons for the high level of knowledge 
+was due to the unprecedented nature of COVID-19, which 
+affected all communities. The Government of Ghana, the 
+World Health Organization, UNICEF, the European Union 
+and other development partners embarked on campaigns 
+over the radio, televisions, community meetings, mobile 
+loudspeaker announcements and billboards, which makes 
+it difficult to understand the cases where respondents 
+indicated that they had no knowledge. Significant 
+resources were availed for publicity campaigns and 
+warnings pertaining to COVID-19.
+Geography of the COVID-19 Victims
+Figure 14 shows the geography of persons infected with 
+COVID-19 that the respondents knew about. Among the 
+3.4% who knew someone who has contracted COVID-19, 
+about 14.3% of them said they were located in the same 
+community, 28.3% identified them in a neighboring 
+community within the same district, while 42% noted they 
+were located elsewhere in Ghana and 14.3% observed 
+that they were located in a different district but same 
+region. All those who knew people in their communities of 
+residence who had contracted the disease or in a different 
+district but same region were respondents in female-
+headed households. Two-thirds of the respondents 
+in male-headed households indicated they knew of 
+COVID-19 cases in other parts of Ghana but not within 
+Greater Accra. This is an interesting finding as it was also 
+an argument used for not observing the lockdown when 
+it was imposed on Accra and Kumasi. Most of the low-
+income households who wanted to engage in the informal 
+sector were calling for the lifting of the lockdown as they 
+knew no one in their communities that had been affected.
+Figure 13. Measures to stay safe from COVID-19.
+4.8
+74.7
+65.8
+84.3
+44.5
+19.9
+6.2
+2.7
+2.1
+10.2
+79.7
+76.3
+89.8
+52.5
+18.6
+8.5
+8.5
+1.7
+6.3
+76.1
+68.8
+85.9
+46.8
+19.5
+6.8
+4.4
+2.0
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+Staying at home
+Frequent washing of hands with soap under
+running water
+Use of alcohol-based hand sanitizer in the absence
+of handwashing
+Use of nose mask when going out
+Practicing social distancing
+Avoid shaking of hands
+Avoid touching of mouth, eyes and nose
+Other
+No idea
+Percentage of cases (%)
+Measures
+All
+Female
+Male
+IWMI - 13
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Domestic Water Access for Surveyed 
+Households
+The surveyed respondents were collectively mainly 
+accessing water through boreholes or tube wells (31.2%), 
+with 23.7% of female-headed households recording this 
+water source against 34.2% for male-headed households. 
+The public standpipe was the second most used source of 
+water at about 21%. As opposed to urban settings, rural 
+areas do not have water connections to the house or the 
+compound. 
+It is important to note that the Government of Ghana’s 
+Free Water Initiative largely catered to urban areas 
+where the Ghana Water Company provides piped water 
+which were complemented with water tankers during the 
+initiative. Rural areas never benefited from the same as 
+they continued to pay for water which is based on the size 
+of container used to collect water. This water fee is meant 
+to ensure that there is a fund for maintenance and to pay 
+the person responsible for collecting the water levy and 
+guaranteeing that the water point is clean. Some boreholes 
+open at certain times and will be locked during non-
+operational hours. A number of respondents confirmed 
+that the free water initiative had not been extended to the 
+rural areas:
+“There is no free water in the community, when COVID-19 
+came that they were supplying free water it didn’t reach 
+here, we all bought water before and after COVID-19…” 
+(Respondent 7, Female, Obom, FGD, Women 1).
+“Since the start of the COVID-19, and they said they were 
+given water, we never had some of the water. Moderator: 
+Very good. They said they were sharing food, we did not 
+get anything and at last, the food that came that we did 
+not even know where it came from, were in takeaways and 
+they even made politics out the food that was brought to 
+this Obom community…” (Respondent 8, Male, 2nd Mixed 
+Group, Obom).
+Access to Drinking Water
+About 42% of the questionnaire survey respondents 
+bought plastic water sachets for drinking, followed by 
+those who fetched their drinking water from a borehole 
+or a tube well (31.2%) and public tap / standpipe (21%) 
+as shown in Figure 15. A higher proportion of female-
+headed respondents (47.5%) used sachet water as 
+their main source of drinking water compared to 39% 
+of the male-headed households. In spite of the plastic 
+sachets being more affordable than bottled water, 
+it still negatively affects the access of low-income 
+earners to safe drinking water. This was not anticipated, 
+especially in the context of rural areas, where financial 
+resources tend to be limited compared to urban areas. 
+Studies conducted on sachet drinking water samples 
+demonstrate that even this packaged water is less 
+regulated, resulting in a wide variation of the sachet 
+water quality (Wright et al. 2004). Some of the sachet 
+water companies use tap water with minimum further 
+purification (Kangmennaang et al. 2020; Machdar et al. 
+2013; Wright et al. 2004).
+Figure 14. Location of COVID-19 patients by sex of the head of household respondents.
+0
+33.3
+0
+66.7
+25
+25
+25
+25
+14.3
+28.6
+14.3
+42.9
+0
+10
+20
+30
+40
+50
+60
+70
+80
+In this 
+community
+In a neighboring
+community but
+same district
+In a diﬀerent 
+district but 
+same region
+Elsewhere 
+in Ghana
+Percentage (%)
+Location
+Male
+Female
+All
+IWMI - 14
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+The sources of drinking water did not change as a result of 
+COVID-19. 
+Source of Water for Handwashing during 
+COVID-19 
+For the residents, water for handwashing in the pre-
+COVID-19 period was mainly obtained from elsewhere 
+(94.6%), other than in their own dwelling (3.9%) or in 
+their own yard or plot (1.5%) as shown in Figure 16.
+Figure 15. The main source of drinking water disaggregated by sex of the household head.
+Figure 16. Place where handwashing water was collected from before COVID-19.
+0
+21.2
+34.2
+0.7
+0.7
+0
+0.7
+0.7
+0.7
+1.4
+39
+0.7
+1.7
+20.3
+23.7
+0
+0
+1.7
+1.7
+0
+0
+3.4
+47.5
+0
+0.5
+21
+31.2
+0.5
+0.5
+0.5
+1
+0.5
+0.5
+2
+41.5
+0.5
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Piped into compound, yard or plot
+Public tap/standpipe
+Borehole or tubewell
+Protected well (Dug Well)
+Unprotected well (Dug Well)
+Protected spring
+Unprotected spring
+Rainwater collection
+Tanker-truck (Delivered water)
+Packaged water
+Sachet water
+Surface water (river, stream, dam, lake, pond, canal,
+irrigation channel)
+Percentage (%)
+Main source of drinking water
+All
+Female
+Male
+Figure 17 illustrates the main sources of water for 
+handwashing during COVID-19. It was observed that both 
+female- and male-headed households largely depended 
+on borehole water (55.9% and 58.9% respectively) 
+and public standpipe (32.2% and 34.9% respectively) 
+for handwashing during the pandemic. The remaining 
+sources each contributed smaller proportions of water 
+requirements for handwashing.
+3.4
+1.4
+95.2
+5.1
+1.7
+93.2
+3.9
+1.5
+94.6
+0
+20
+40
+60
+80
+100
+In own dwelling
+In own yard/plot
+Elsewhere
+Percentage (%)
+Place of water collection
+Male
+Female
+All
+IWMI - 15
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Who Collects Water?
+The aggregated results show that mostly women and girls 
+tend to collect water for household use (Figure 18). Further 
+disaggregation of the results based on the gender of the 
+household heads highlight an interesting finding. From 
+male-headed households, a higher proportion of women 
+collected water for the household than girls while female-
+headed households reported a higher proportion of girls 
+collecting water for household use than women; 53%, 
+33.3%, 51.7% and 44.8%, respectively. 
+These findings reflect that water collection in the rural 
+context is still gendered with the responsibility for water 
+collection largely shouldered by women and girls. It is 
+important to also note that men said it was a taboo for 
+men to carry water. The advent of COVID-19 entails the 
+need to collect more water for increased handwashing, 
+cleaning and other hygiene purposes.
+Domestic water collection was largely characterized as 
+the role of women, indicating that women had a greater 
+burden as compared to urban settings, to go out and 
+collect water. Focus Group Discussions further revealed 
+the gendered nature of domestic water collection.
+“… To answer you, in this community there are some tasks 
+we consider the responsibility of the woman and others we 
+feel is for men. And you know also that we use firewood 
+a lot here; so, the boys go to the bush to collect firewood 
+and then girls go for water collection. So, the woman’s 
+responsibility is to bring water and the boys’ responsibility 
+is to bring firewood…” (Respondent 9, Male, Obokwashie, 
+FGD, Mixed 1).
+“…what I can also add is that, is our fathers and brothers 
+work hard to get food on the table so we cannot allow 
+them fetch water after their hard work. The house duties 
+are for the females whiles the males brings housekeeping 
+money. So how you treat your brother depends on how 
+you would treat your husband in future…” (Respondent 10, 
+Female, Obokwashie, FGD, Female Youth 1).
+“It is the same; most of the time it is the young girls that 
+cooks at home so the same reason why we allow women 
+to fetch water applies to the girls too. Again, you cannot 
+go to the water source with an elderly man as a young man 
+and fetch your water first before the man, it doesn’t show 
+respect. You have to even take his container and fetch the 
+water for him before you have your turn.” (Respondent 11, 
+Male, Obom, FGD, Youth 1).
+Figure 17. Main source of handwashing water after COVID-19 by sex of the household head.
+All
+Female
+Male
+0.7
+0
+0
+34.9
+58.9
+1.4
+0.7
+0.7
+0.7
+0.7
+1.4
+0
+1.7
+1.7
+32.2
+55.9
+0
+0
+1.7
+5.1
+0
+1.7
+0.5
+0.5
+0.5
+34.1
+58
+1
+0.5
+1
+2
+0.5
+1.5
+0
+20
+40
+60
+80
+Piped into dwelling
+Piped into compound, yard or plot
+Piped to neighbor
+Public tap/standpipe
+Borehole or tubewell
+Protected well (Dug Well)
+Unprotected well (Dug Well)
+Protected spring
+Unprotected spring
+Rainwater collection
+Surface water (river, stream, dam, lake, pond,
+canal, irrigaion channel)
+Main source of drinking water
+Percentage (%)
+IWMI - 16
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+Duration of Water Collection
+Over half of the households included in the survey 
+obtained water from sources that took them at 
+most 10 minutes to fetch and return home. Over a 
+quarter of the households spent about 2–5 minutes 
+to fetch water and return home, and another one-
+fourth reported spending about 6–10 minutes. Water 
+collection times were 2–5 minutes for about 37% of the 
+female-headed household compared to 25% for the 
+male-headed households as shown in Figure 19. About 
+29% of female-headed households took 11–20 minutes 
+Figure 18. Person who collected water in the household before COVID-19 by household headship.
+54
+33.3
+4.6
+6.9
+1.1
+44.8
+51.7
+0
+3.4
+0
+51.7
+37.9
+3.4
+6
+0.9
+0
+10
+20
+30
+40
+50
+60
+Women
+Girls
+Men
+Boys
+Other
+Percentage (%)
+Collector
+Male
+Female
+All
+to collect water, similar to about 27% for the male-
+headed households. About 17% of the female-headed 
+households needed 21–65 minutes to collect water 
+which compares with male-headed households (about 
+19%). It is important to note that only one additional 
+borehole was provided after the advent of COVID-19. 
+So, the actual water collection time for the community 
+largely remained the same, before and during the 
+COVID-19 period. What changed, however, was the 
+frequency of collecting water as more water was used 
+due to the need to practice increased handwashing and 
+general cleanliness.
+Figure 19. Duration of water collection during COVID-19.
+25
+29.2
+27.1
+18.8
+37.3
+16.9
+28.8
+16.9
+28.6
+25.6
+27.6
+18.2
+0
+5
+10
+15
+20
+25
+30
+35
+40
+2–5 minutes
+6–10 minutes
+11–20 minutes
+21–65 minutes
+Percentage (%)
+Duration 
+Male
+Female
+All
+IWMI - 17
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Access to Sanitation
+This section provides a brief overview of the findings on the 
+sanitation facilities that household members had access to 
+within the study communities.
+Type of toilet facility used by household 
+members 
+Access to sanitation was a major challenge in the study 
+area. Generally, about 4 out of every 10 households did 
+not have toilet facility in their households. About 42% 
+of the male-headed households had no toilet facilities, 
+higher than female-headed households (about 32%). 
+They were using the bush or open areas. About 37% of the 
+female-headed households were using pit latrine with slab 
+compared to 32% of the male-headed households as in 
+Figure 20. 
+Field observations showed that most households did not 
+have such pit and slab toilets at their homestead. These 
+were public toilets as well as schools and health facility 
+toilets which the communities had taken over. The school 
+had managed to build new toilets to avoid pupils using 
+the same toilet facilities with the public. The hospital 
+was also in the process of fundraising in order to provide 
+toilets with patients-only access. Respondents noted the 
+following:
+“…yes, even when they built a toilet for the school then, 
+the community members use it and don’t keep it neat. 
+Even three days ago it was announced that the community 
+members also defecate in classrooms. They have 
+announced it several times, but they still use the school 
+toilet. I have toilet in my house. As a result, there a lot of 
+polythene bags (take away) in the town. I also have toilet 
+in my house, I don’t use public toilet.” (Respondent 12, 
+Female, Obom, FGD, Women 2).
+“…you see because of the smell you do that in the house 
+but rather in the bush but now there are chemicals that 
+they pour in those holes, so the smell is minimized but we 
+don’t have the money to build toilet facility…” (Respondent 
+13, Female, Obokwashie, FGD, Women 1).
+The issue of access to sanitation did not change with 
+COVID-19. In order to clean the public as well as the 
+hospital and school toilets which had been ‘taken over’ 
+by the community, a volunteer was collecting fees. An 
+interview with toilet fee collector and cleaner revealed that 
+there is no fixed fees to use the toilet. Fees for toilet use 
+range from GHS 0.10 to GHS 0.50. The toilet fee collector, 
+however, lamented that most people do not want to 
+pay and end up going into the bush to defecate. Women 
+during FGDs indicated that going to the bush was quite 
+risk (especially at night); women and children had even 
+resorted to using plastic bags which would be disposed of 
+in the bush during daytime. Societal views on sanitation 
+were also raised during FGDs and interviews, as it was 
+noted that surprisingly, even households with very modern 
+housing structures did not have toilet facilities. The taboos 
+resonate with studies elsewhere within Ghana and even 
+more broadly, within West Africa (Balasubramanya et al. 
+2021; WaterAid 2009).
+Figure 20. Availability of toilet facilities in the household.
+1.4
+2.1
+2.7
+13.7
+31.5
+6.8
+41.8
+1.7
+6.8
+3.4
+11.9
+35.6
+8.5
+32.2
+1.5
+3.4
+2.9
+13.2
+32.7
+7.3
+39
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Flush to piped sewer system
+Flush to septic tank
+Flush to pit latrine
+Dry pit latrines
+Pit latrine with slab
+Without slab/Open pit
+No facility/Bush/Field/Open area
+Percentage (%)
+Type of toilet facility
+All
+Female
+Male
+IWMI - 18
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+COVID-19 and Food Security
+In the past 12 months, COVID-19 has impacted food 
+security. About 6 out of every 10 households skipped or 
+reduced the quantity of meals served in the household. 
+Less than 7% of the respondents skipped or reduced 
+the size of meals almost always or all the time. For the 
+households that skipped some of the meals some of the 
+time, female-headed households were at about 46% with 
+male-headed households at about 40% as shown in  
+Figure 21.
+2.1
+4.8
+40.4
+7.5
+45.2
+3.4
+3.4
+45.8
+6.8
+40.7
+2.4
+4.4
+42
+7.3
+43.9
+0
+10
+20
+30
+40
+50
+All the time
+Almost always
+Some of the
+time
+Seldom/rarely
+Never
+Percentage (%)
+Duration
+Male
+Female
+All
+The study went further to ask which household member 
+would be affected by the reduced or skipped meal due to 
+food shortages; the results are presented in Figure 22.  
+Most household heads were the worst hit when the 
+household had to reduce or skip meals. This was very 
+prevalent among female-household heads as two-thirds 
+of them had to forgo their meals or reduce the size, 
+compared to 43.9% of the male-household heads. 
+Figure 22. Household members who skip meals when there is food shortage.
+43.9
+35.4
+14.6
+0
+0
+0
+0
+0
+1.2
+1.2
+3.7
+66.7
+2.8
+11.1
+2.8
+2.8
+2.8
+5.6
+2.8
+0
+2.8
+0
+50.8
+25.4
+13.6
+0.8
+0.8
+0.8
+1.7
+0.8
+0.8
+1.7
+2.5
+0
+10
+20
+30
+40
+50
+60
+70
+80
+Head of Household
+Wife or husband
+Son or daughter
+Mother or father
+Brother or sister
+Uncle or aunt
+Niece or nephew
+Grandson or granddaughter
+Brother-in-law or mother-in-law
+Other relative
+Other non-relative
+Percentage (%)
+Household member
+All
+Female
+Male
+IWMI - 19
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Figure 23. Sources of borrowing in the last 2 years.
+15.4
+3.8
+46.2
+11.5
+3.8
+19.2
+0
+0
+42.9
+28.6
+28.6
+0
+12.1
+3
+45.5
+15.2
+9.1
+15.2
+0
+10
+20
+30
+40
+50
+Commercial
+Microﬁnance
+Susu group
+Cooperatives
+Family
+Other
+Percentage of cases (%)
+Place
+Male
+Female
+All
+Financial Coping Mechanisms
+Loans were one of the instruments for coping with financial 
+stress. On average, female-headed households borrowed 
+CHS 945, much lower than male-headed households 
+where the average amount borrowed stood at CHS 2,350 
+— nearly two and half times greater. As for the sources of 
+loans, women solely borrowed from susu groups (42.9%), 
+family (28.6%) and cooperatives (28.6%) as shown in 
+Figure 23. It was interesting that even savings clubs (susu) 
+which are usually led by women, the proportion of male-
+headed households that borrowed from this source was 
+slightly higher than female-headed households; 46.2% 
+and 42.9% respectively. Male-headed households were 
+the only ones that accessed commercial and microfinance 
+loans as well as loans from other sources.
+Receipt of Remittance from Household 
+Member during COVID-19
+Over half of the female-headed households (50.8%) 
+respondents received remittances compared to less 
+than 16% of the male-headed households (Figure 24). 
+While the percentage of households receiving 
+remittances were similar in the pre- and post-COVID-19 
+periods, most respondents noted that the amount 
+had been largely reduced as a result of low economic 
+activities experienced by both local and international 
+migrants. 
+Figure 24. Receipt of remittances.
+15.8
+84.2
+50.8
+49.2
+25.9
+74.1
+0
+20
+40
+60
+80
+100
+Yes
+No
+Percentage (%)
+Male
+Female
+All
+IWMI - 20
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+Discussion
+This report has briefly introduced the pressures and 
+drivers for water and sanitation services in the rural Ga 
+South District. 
+The lived experiences of COVID-19 are markedly different 
+for men and women. COVID-19 further exacerbated 
+women’s triple burden of reproductive, productive and 
+community roles (Zibani 2016). Domestic violence was 
+reported to have increased partly due to the confinement 
+in smaller spaces, especially for the study community. 
+A joint review by GSS and UNDP also showed that areas 
+where lockdown had been enforced saw a 7% increase 
+in domestic violence cases (GSS and UNDP 2020). The 
+economic hardships as a result of the lockdown were cited 
+as some of the contributing reasons in the rural study 
+area. Most of the responses and COVID-19 state responses 
+did not take such social and gender dimensions into 
+account. It is therefore important that future responses 
+to health emergencies such as COVID-19 and other global 
+crises consider their differential impact on gender.
+COVID-19 had repercussions on informal employment 
+opportunities, with a differential impact for women and 
+men. The Ghana Statistical Services in partnership with 
+the United Nations Development Programme (GSS and 
+UNDP 2020) noted that COVID-19 had an overall negative 
+impact on business and employment opportunities. The 
+government’s free water was a noble but incomplete 
+initiative, and did not benefit rural households which 
+are not provided water by the Ghana Water Company 
+(Amankwaa and Ampratwum 2020). Women and girls’ 
+water collection burden has been worsened, because 
+more water was required to prevent COVID-19. Most 
+women and girls were collecting water outside their 
+homestead while also being increasingly responsible 
+for childcare and other reproductive, productive and 
+community responsibilities. COVID-19 stigma was 
+prevalent with the majority of women and men not willing 
+to get close to a person who would have recovered from 
+the disease. The stigma might also have contributed 
+to respondents hardly knowing anyone within their 
+neighborhood who had been affected by COVID-19. It is 
+therefore important that policy responses to crises such 
+as COVID-19 are designed to be inclusive of gender and 
+the accompanying differential power dynamics. There is 
+also a need to better understand stigmas around health 
+emergencies as they might undermine the data and scale 
+of the impact of diseases such as COVID-19.
+The loss of income has worsened food insecurity in the 
+study area. Cities which are markets for agricultural 
+produce, and went through lockdown, saw an about 
+84% decline in sales and a 74% decline in production. 
+This had a knock-on effect on the informal as well as the 
+agricultural sector. Women were slightly more impacted 
+in terms of food assistance requirement. Women were 
+also more likely to miss a meal as a result of the resultant 
+food shortage due to COVID-19. The joint GSS and UNDP 
+review of the COVID-19 impact in Ghana also noted that 
+different arms of the government and local authorities 
+received assistance to help cope with COVID-19 (GSS and 
+UNDP 2020). The most common type of assistance in the 
+lockdown districts was both cooked and uncooked food. 
+Such efforts, however, were largely concentrated in urban 
+areas; rural areas missed out on the food assistance. 
+This will most likely have negative nutrition outcomes, 
+especially with the research findings that women were 
+more likely to miss a meal during food shortage. Shocks 
+such as COVID-19 may worsen the gap between men 
+and women (Ragasa and Lambrecht 2020). This therefor 
+calls for deploying a robust gender lens towards social 
+protection measures (Corburn et al. 2020; Hujo 2021; 
+Leigh 2020; Méndez et al. 2020).
+COVID-19 has negatively affected youth due to loss of 
+employment as well as disruptions in studies. Youths who 
+were working in the informal sector lost their employment 
+opportunities. Those who were still going to school were 
+also negatively affected as virtual learning required 
+internet connectivity which was prevalent in most of the 
+rural communities. Some education lessons were being 
+offered through television, again not accessible to the 
+majority in the study community. While Africa has often 
+been touted as having a population dividend through its 
+youth population, the dividend may only be achieved 
+through rigorous planning which accounts for the youth 
+(Aphunu and Atoma 2010; Fox et al. 2020; Heckert et al. 
+2020; Mueller and Thurlow 2019; Sumberg 2021).
+Access to sanitation, which was not impacted by 
+COVID-19, is a major concern for the study community. 
+Most households had no access to a household toilet 
+facility and were using the bush, or sometimes public 
+facilities if they could afford them. Despite a new public 
+facility close to completion, most of the people were 
+using the bush or open pits which dug in the bush. This 
+raises questions (Keraita et al. 2013; WaterAid 2009) on 
+how perceptions and practices and use of toilets could be 
+changed over time. It is important that responses to such 
+infrastructural challenges consider the differential gender 
+dimensions as well as further compounded health risks 
+that are posed.
+IWMI - 21
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Conclusion
+This social and economic study has endeavored to 
+better understand the status of access to water and 
+sanitation in Ga South District in the pre- and COVID-19 
+periods. The study area was selected as a rural 
+community. The findings highlight the importance of 
+better understanding the gendered and differential 
+access to water and sanitation facilities in Ga South 
+within the Greater Accra Metropolitan Area. The 
+study further highlights the importance of a nuanced 
+and gendered understanding of water and sanitation 
+interventions, including the Free Water Initiative which 
+seem less well-targeted by neglecting the poorer 
+women and men in the rural areas. The findings call 
+for responses to COVID-19 such as social protection 
+measures, to take into account the differential impact 
+on women, men, youths and other vulnerable people. 
+This means that the responses have to be tailored to 
+the varying and intersectional circumstances of the 
+community members. COVID-19, in the study area, as 
+also seen elsewhere, clearly points to the importance 
+of social inclusion to ensure that infrastructure such 
+as water and sanitation needs to be provided to all 
+citizens. The research believes that this can offer a new 
+trajectory for development in Ghana and beyond.
+IWMI - 22
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+References
+Amankwaa, G.; Ampratwum, E.F. 2020. COVID-19 ‘free water’ initiatives in the Global South: What does the Ghanaian 
+case mean for equitable and sustainable water services? Water International 45(7–8): 722–729.  
+https://doi.org/10.1080/02508060.2020.1845076
+Aphunu, A.; Atoma, C.N. 2010. Rural youths’ involvement in agricultural production in Delta Central Agricultural Zone: 
+Challenge to agricultural extension development in Delta State. Journal of Agricultural Extension 14(2): 46–55.  
+https://doi.org/10.4314/jae.v14i2.64123
+Awumbila, M. 2017. Drivers of migration and urbanization in Africa: Key trends and issues. Background Paper prepared 
+for UN Expert Group Meeting on Sustainable Cities, Human Mobility and International Migration. Legon, Ghana: Centre for 
+Migration Studies, University of Ghana. 
+Awumbila, M.; Owusu, G.; Teye, J.K. 2014. Can rural-urban migration into slums reduce poverty? Evidence from Ghana. 
+Migrating out of Poverty project - Working Paper 13. London, U.K.: Department for International Development (DFID). 
+Available at https://assets.publishing.service.gov.uk/media/57a089d340f0b649740002ae/WP13-migratingoutofpov.pdf 
+(accessed on March 5, 2025).
+Balasubramanya, S.; Stifel, D.; Alvi, M.; Ringler, C. 2021. The role of social identity in improving access to water, sanitation 
+and hygiene (WASH) and health services: Evidence from Nepal. Development Policy Review 40(4): e12588.  
+https://doi.org/10.1111/dpr.12588
+Castro, F.G.; Kellison, J.G.; Boyd, S.J.; Kopak, A. 2010. A methodology for conducting integrative mixed methods research 
+and data analyses. Journal of Mixed Methods Research 4(4): 342–360. https://doi.org/10.1177/1558689810382916
+Connell, R. 2020. COVID-19/Sociology. Journal of Sociology 56(4): 745–751. https://doi.org/10.1177/1440783320943262
+Corburn, J.; Vlahov, D.; Mberu, B.; Riley, L.; Caiaffa, W.T.; Rashid, S.F.;...Ayad, H. 2020. Slum health: Arresting COVID-19 
+and improving well-being in urban informal settlements. Journal of Urban Health 97: 348–357.  
+https://doi.org/10.1007/s11524-020-00438-6
+Creswell, J.W.; Plano Clark, V.L.; Gutmann, M.L.; Hanson, W.E. 2003. Advanced mixed methods research designs. In: 
+Tashakkori, A.; Teddlie, C. (eds.) Handbook of mixed methods in social and behavioral research. Thousand Oaks, U.S.A.: 
+Sage Publications. pp.209–240.
+Doss, C. 2013. Data needs for gender analysis in agriculture. IFPRI Discussion Paper 1261. Washington, D.C., U.S.A.: 
+International Food Policy Research Institute (IFPRI). https://hdl.handle.net/10568/153478
+Duti, V. 2020. Opinion: A complex WASH sector could hamper Ghana’s fight against COVID-19. Devex. Available at https://
+www.devex.com/news/opinion-a-complex-wash-sector-could-hamper-ghana-s-fight-against-covid-19-97396 (accessed 
+on March 5, 2025).
+Fox, L.; Mader, P.; Sumberg, J.; Flynn, J.; Oosterom, M. 2020. Africa’s 'youth employment' crisis is actually a 'missing jobs' 
+crisis. Brooke Shearer Series 9. Washington, D.C., U.S.A.: The Brookings Institution. Available at https://www.brookings.
+edu/wp-content/uploads/2020/09/Youth-employment-crisis_09.08.pdf (accessed on March 5, 2025).
+Galasiński, D.; Kozłowska, O. 2010. Questionnaires and lived experience: Strategies of coping with the quantitative frame. 
+Qualitative Inquiry 16(4): 271–284. https://doi.org/10.1177/1077800409354068
+GSS (Ghana Statistical Service). 2014. Urbanisation: Population and housing census report. Accra, Ghana: Ghana 
+Statistical Service.
+GSS; UNDP (United Nations Development Programme). 2020. Brief on COVID-19 Local Economies Tracker Wave 1. Accra, 
+Ghana: Ghana Statistical Service.
+Heckert, J.; Pereira, A.; Doss, C.; Myers, E.C.; Quisumbing, A. 2020. Structural transformation and gendered transitions 
+to adulthood among rural youth: Cross-national evidence from low- and middle-income countries. The Journal of 
+Development Studies 57(4): 614–634. https://doi.org/10.1080/00220388.2020.1808196
+Howard, M.C. 2021. Gender, face mask perceptions, and face mask wearing: Are men being dangerous during the 
+COVID-19 pandemic? Personality and Individual Diﬀerences 170: 110417. https://doi.org/10.1016/j.paid.2020.110417
+Hujo, K. 2021. Social protection and inequality in the global South: Politics, actors and institutions. Critical Social Policy 
+41(3): 343–363. https://doi.org/10.1177/02610183211009899
+Kangmennaang, J.; Bisung, E.; Elliott, S.J. 2020. ‘We are drinking diseases’: Perception of water insecurity and emotional 
+distress in urban slums in Accra, Ghana. International Journal of Environmental Research and Public Health 17(3): 890. 
+https://doi.org/10.3390/ijerph17030890
+IWMI - 23
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana  
+Keraita, B.; Jensen, P.K.M.; Konradsen, F.; Akple, M.; Rheinländer, T. 2013. Accelerating uptake of household latrines in 
+rural communities in the Volta Region of Ghana. Journal of Water, Sanitation and Hygiene for Development 3(1): 26–34. 
+https://doi.org/10.2166/washdev.2013.035
+Leahy, C.P. 2021. The afterlife of interviews: Explicit ethics and subtle ethics in sensitive or distressing qualitative 
+research. Qualitative Research 22(5): 777–794. https://doi.org/10.1177/14687941211012924
+Leigh, J. 2020. ‘It was the best of times; it was the worst of times’: The impact of Covid-19 on families in the child 
+protection process. Qualitative Social Work 19(5–6): 779–783. https://doi.org/10.1177/1473325020953657
+Lokot, M. 2021. Whose voices? Whose knowledge? A feminist analysis of the value of key informant interviews. 
+International Journal of Qualitative Methods 20. https://doi.org/10.1177/1609406920948775
+Machdar, E.; van der Steen, N.P.; Raschid-Sally, L.; Lens, P.N.L. 2013. Application of quantitative microbial risk 
+assessment to analyze the public health risk from poor drinking water quality in a low income area in Accra, Ghana. 
+Science of the Total Environment 449: 134–142. https://doi.org/10.1016/j.scitotenv.2013.01.048
+Méndez, M.; Flores-Haro, G.; Zucker, L. 2020. The (in)visible victims of disaster: Understanding the vulnerability of 
+undocumented Latino/a and indigenous immigrants. Geoforum 116: 50–62.  
+https://doi.org/10.1016/j.geoforum.2020.07.007
+Molden, D. (Ed.) 2007. Water for food, water for life: A comprehensive assessment of water management in agriculture. 
+London, U.K.: Earthscan; Colombo, Sri Lanka: International Water Management Institute (IWMI). 645p.  
+https://hdl.handle.net/10568/36463
+Morgan, A.K. 2020. Making COVID-19 prevention etiquette of social distancing a reality for the homeless and slum 
+dwellers in Ghana: Lessons for consideration. The International Journal of Justice and Sustainability 25(7): 536–539. 
+https://doi.org/10.1080/13549839.2020.1789854
+Morse, J.M.; Wolfe, R.R.; Niehaus, L. 2006. Principles and procedures of maintaining validity for mixed-method design. 
+In: Curry, L.; Shield, R.; Wetle, T. (eds.) Improving aging and public health research: Qualitative and mixed methods. 
+Washington, D.C., U.S.A.: American Public Health Association; Gerontological Society of America. pp.65–78.
+Mueller, V.; Thurlow, J. (Eds.) 2019. Youth and jobs in rural Africa: Beyond stylized facts. Oxford, U.K.: Oxford University 
+Press. 
+Osella, F.; Osella, C. 2000. Migration, money and masculinity in Kerala. Journal of the Royal Anthropological Institute 
+6(1): 117–133. https://www.jstor.org/stable/2660768
+Plano Clark, V.L.; Huddleston-Casas, C.A.; Churchill, S.L.; O’Neil Green, D.; Garrett, A.L. 2008. Mixed methods 
+approaches in family science research. Journal of Family Issues 29(11): 1543–1566.  
+https://doi.org/10.1177/0192513X08318251
+Ragasa, C.; Lambrecht, I. 2020. COVID-19 and the food system: Setback or opportunity for gender equality? Food Security 
+12: 877–880. https://doi.org/10.1007/s12571-020-01089-w
+Rutayisire, E.; Nkundimana, G.; Mitonga, H.K.; Boye, A.; Nikwigize, S. 2020. What works and what does not work in 
+response to COVID-19 prevention and control in Africa. International Journal of Infectious Diseases 97: 267–269.  
+https://doi.org/10.1016/j.ijid.2020.06.024
+Saba, C.K.S. 2020. COVID-19: Implications for food, water, hygiene, sanitation, and environmental safety in Africa - A 
+case study in Ghana. Tamale, Ghana: Department of Biotechnology, Faculty of Agriculture, University for Development 
+Studies. Available at https://www.preprints.org/manuscript/202005.0369/v1 (accessed on March 11, 2025). 
+Sumberg, J. (Ed.) 2021. Youth and the rural economy in Africa: Hard work and hazard. Boston, U.S.A.: CABI. 184p.
+Tashakkori, A.; Teddlie, C. 2010. Putting the human back in “human research methodology”: The researcher in mixed 
+methods research. Journal of Mixed Methods Research 4(4): 271–277. https://doi.org/10.1177/1558689810382532
+UN DESA (United Nations, Department of Economic and Social Affairs, Population Division). 2017. World population 
+prospects: The 2017 revision - Key ﬁndings and advance tables. Working Paper ESA/P/WP/248. New York, U.S.A.: 
+Department of Economic and Social Affairs, United Nations.
+UN Women. 2020. From insights to action: Gender equality in the wake of COVID-19. New York, U.S.A.: UN Women. 
+Available at https://digitallibrary.un.org/record/3928015/files/gender-equality-in-the-wake-of-covid-19-en.pdf (accessed 
+on March 11, 2025).
+WaterAid. 2009. Towards total sanitation: Socio-cultural barriers and triggers to total sanitation in West Africa. London, 
+U.K.: WaterAid. 16p.
+IWMI - 24
+Working Paper 213 - Gender in Water and Sanitation Provision and Responses to the COVID-19 Pandemic in Rural Ghana 
+Werner, M.; Strauss, K.; Parker, B.; Orzeck, R.; Derickson, K.; Bonds, A. 2017. Feminist political economy in geography: 
+Why now, what is different, and what for? Geoforum 79: 1–4. https://doi.org/10.1016/j.geoforum.2016.11.013
+Wright, J.A.; Gundry, S.W.; Genthe, B.; du Preez, M.; Moyo, S.; Potgieter, N.; Ndamba, J. 2004. Use of handheld 
+computers for collecting water quality data in developing countries. Water International 29(4): 517–522.  
+https://doi.org/10.1080/02508060408691815
+Yeleliere, E.; Cobbina, S.J.; Duwiejuah, A.B. 2018. Review of Ghana’s water resources: The quality and management with 
+particular focus on freshwater resources. Applied Water Science 8: 93. https://doi.org/10.1007/s13201-018-0736-4
+Zibani, T. 2016. The triple burden and triple role of women. Available at https://www.empowerwomen.org/en/
+community/discussions/2016/11/the-triple-burden-andtriple-role-of-women (accessed on May 12, 2021).
+208 Innovations in Water 
+Quality Monitoring and 
+Management in Africa:
+Towards Developing an African 
+Water Quality Program (AWaQ)
+https://doi.org/10.5337/2023.217 
+For access to all IWMI publications, visit: www.iwmi.org/publications/
+IWMI Working Paper Series
+213 Gender in Water and Sanitation 
+Provision and Responses to the 
+COVID-19 Pandemic in Rural Ghana 
+https://doi.org/10.5337/2025.217
+212 Anticipatory Action in 
+Communities Hosting Refugees and 
+Internally Displaced persons: An 
+Assessment of Current Approaches
+https://doi.org/10.5337/2024.200
+210 Digital Innovation in Citizen 
+Science to Enhance Water Quality 
+Monitoring in Developing Countries
+https://doi.org/10.5337/2024.201
+211 Investment and Cultivation 
+Strategies for Women and 
+Youth Inclusion: Cases from 
+surplus on-farm and off-farm 
+activities in Ethiopia and Mali
+https://doi.org/10.5337/2024.203
+209 A Framework for an African 
+Water Quality Program (AWaQ)
+https://doi.org/10.5337/2024.202
+Headquarters 
+127 Sunil Mawatha 
+Pelawatta 
+Battaramulla 
+Sri Lanka
+Mailing address 
+P. O. Box 2075  
+Colombo 
+Sri Lanka
+Telephone 
++94 11 2880000
+Fax 
++94 11 2786854
+Email 
+iwmi@cgiar.org
+Website 
+www.iwmi.org
+ISSN 2012-5763
+e-ISSN 2478-1134
+ISBN 978-92-9090-977-4
+IWMI is a CGIAR Research Center

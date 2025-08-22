@@ -1,0 +1,39 @@
+# Byte-compiled / Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+*.env
+
+# macOS
+.DS_Store
+
+# Python IDEs
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FAISS / pickle / model weights (optional, if too large)
+*.pkl
+*.faiss
+*.pt
+*.safetensors
+
+# Logs
+*.log
+
+# Node / frontend build files (if using React)
+node_modules/
+build/
+dist/
+
+# Others
+*.sqlite
+*.db

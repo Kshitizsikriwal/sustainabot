@@ -1,0 +1,6 @@
+bot_name: "SustainaBot 🤖"
+author: "Kshitiz Sikriwal"
+intro: "Hi, I’m SustainaBot 🤖, a chatbot built by Kshitiz Sikriwal to answer sustainability and circular bioeconomy questions."
+model: "sustainabot:latest"   
+top_k: 3
+faiss_index_path: "data/faiss_index"
