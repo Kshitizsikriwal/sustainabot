@@ -4,9 +4,16 @@ from torch import embedding
 import yaml
 import faiss, pickle, subprocess
 import numpy as np
+import os
 
 # Load config.yaml
-with open("config.yaml", "r") as f:
+# with open("config.yaml", "r") as f:
+#     config = yaml.safe_load(f)
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # project root
+CONFIG_PATH = os.path.join(BASE_DIR, "config.yaml")
+
+with open(CONFIG_PATH, "r") as f:
     config = yaml.safe_load(f)
 
 model_name = config["model"]
@@ -55,3 +62,5 @@ async def chat(query: Query):
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run("main:app", host="0.0.0.0", port=8000, reload=True)
+
+
