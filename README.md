@@ -1,5 +1,7 @@
 # SustainaBot 🌱
-<img width="1280" height="800" alt="Screenshot 2025-08-22 at 6 57 46 AM" src="https://github.com/user-attachments/assets/6da9b129-2440-4038-a589-f29579b29fe7" />
+
+<img width="1280" height="800" alt="Screenshot 2025-08-23 at 10 24 07 AM" src="https://github.com/user-attachments/assets/26025388-9b4a-4638-bae8-8fbd7acc1eba" />
+
 
 
 **SustainaBot** is a Retrieval-Augmented Generation (RAG) chatbot for sustainability and circular bioeconomy queries. It answers questions based on uploaded documents using a local LLM.
@@ -9,6 +11,7 @@
 - FastAPI backend with Streamlit frontend
 - Uses FAISS for vector search
 - Local/offline-friendly: no paid APIs required
+- trained on UN and IWMI publically available reports and data.
 
 ## Project Structure
 ```
